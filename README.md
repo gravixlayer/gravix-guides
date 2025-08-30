@@ -45,7 +45,7 @@ Get started with Gravix Layer in minutes using our OpenAI-compatible API:
 
 | Guide | Description | Open |
 |-------|-------------|------|
-| WebSearch-LLM | Build an AI-powered web search application using Gravix Layer's LLM capabilities. | [View Guide](https://github.com/gravixlayer/gravix-guides/tree/main/WebSearch-LLM) |
+| WebSearch-LLM | OpenAI-compatible proxy server integrating web search into LLM workflows for real-time knowledge. | [View Guide](https://github.com/gravixlayer/gravix-guides/tree/main/WebSearch-LLM) |
 
 ## Explore Further
 
